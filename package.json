@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@adyen/adyen-web": "^5.55.1",
-    "expo": "^48.0.21"
-  }
-}
